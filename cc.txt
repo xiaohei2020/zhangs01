@@ -1,4 +1,8 @@
 ccccccccccccccccccccccccccccc
 ddddddddddddddddddddddddddddd
 小黑黑
+<<<<<<< HEAD
 345345
+=======
+123123
+>>>>>>> ba274f790fb4a0eb6848a527ef07302c9874b773
